@@ -8,3 +8,5 @@
 Corpi-42/Corpi-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a rel="nofollow me" href="https://rawr.ink/@corpy">@corpy<span>@</span>rawr.ink</a>
